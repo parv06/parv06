@@ -5,7 +5,7 @@
 💼 LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/praveen-dhakad-b9ab8818a)  
 
 ## About Me
-I am a passionate and skilled Py/Django Developer with 3.10 years of industry experience. My expertise lies in backend technologies like Core Python, Django, DRF, Flask, and Python Scripts, along with frontend technologies like React. I have worked in various domains such as E-commerce, Cryptocurrency, and Healthcare. My technical skill set includes database management, cloud deployment, and test management. I am well-versed in version control, Agile methodology, and using tools like Jira for effective project management.
+I am a passionate and skilled Py/Django Developer with 6+ years of industry experience. My expertise lies in backend technologies like Core Python, Django, DRF, Flask, and Python Scripts, along with frontend technologies like React. I have worked in various domains such as E-commerce, Cryptocurrency, and Healthcare. My technical skill set includes database management, cloud deployment, and test management. I am well-versed in version control, Agile methodology, and using tools like Jira for effective project management.
 
 ## Technical Skill Set
 **Core Competencies:**
